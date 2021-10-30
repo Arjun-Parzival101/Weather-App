@@ -227,9 +227,6 @@ a:hover {
 
 /***MEDIA QUERY***/
 @media (max-width: 500px) {
-  main {
-    min-height: 80vh;
-  }
   .search-box {
     margin-bottom: 100px;
   }
