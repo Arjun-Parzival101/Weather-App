@@ -68,6 +68,10 @@ body {
   background-image: url(./assets/rainy-bg.jpg);
 }
 
+.app.thunder {
+  background-image: url(./assets/thunderstorm-bg.jpg);
+}
+
 main {
   min-height: 100vh;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.75));
